@@ -1,7 +1,5 @@
 Prédiction de l'Espérance de Vie
 
-Ce projet a pour objectif de prédire l'espérance de vie à partir de données socio-économiques
-
 Projet : 
 
 L'espérance de vie est un indicateur clé de la santé publique et économique. Ainsi, comprendre les facteurs qui influencent l'espérance de vie et être capable de la prédire permet de développer des stratégies ciblées visant à améliorer la santé d'une population. Du point de vue de la santé humaine, des prévisions précises de l'espérance de vie peuvent aider les gouvernements et les organisations à planifier les besoins en soins de santé de leurs populations, en veillant à ce que les ressources soient allouées efficacement. D'un point de vue socio-économique, les prévisions de l'espérance de vie peuvent contribuer à identifier des marchés émergents, permettant aux entreprises d'adapter leurs produits et services — tels que les produits de santé, l'assurance et la planification de la retraite — pour répondre efficacement aux demandes futures.
