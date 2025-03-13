@@ -1,6 +1,6 @@
 Prédiction de l'Espérance de Vie
 
-Ce projet a pour objectif de prédire l'espérance de vie à partir de données socio-économiques prevenant de
+Ce projet a pour objectif de prédire l'espérance de vie à partir de données socio-économiques
 
 Projet : 
 
